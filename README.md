@@ -12,7 +12,7 @@ Also, I'm a proud mom of three kittens hehe
 Love music, fantasy books, and games!
 
 ![Kiutty's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarissaKiutty&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaKiutty)](https://github.com/LarissaKiutty/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaKiutty)](https://github.com/LarissaKiutty/github-readme-stats)-->
 
 ## Technologies
 <div style="display: inline_block"><br>
