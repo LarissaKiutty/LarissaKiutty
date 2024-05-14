@@ -11,7 +11,7 @@ My name is Larissa. I'm a beginner in programming with the goal of becoming a fu
 Also, I'm a proud mom of three kittens hehe 
 Love music, fantasy books, and games!
 
-![Kiutty's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarissaKiutty&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LarissaKiutty&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Technologies
 <div style="display: inline_block"><br>
@@ -23,7 +23,7 @@ Love music, fantasy books, and games!
 </div>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaKiutty&layout=compact)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LarissaKiutty&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LarissaKiutty/LarissaKiutty/output/github-contribution-grid-snake-dark.svg">
