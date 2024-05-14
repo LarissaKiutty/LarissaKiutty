@@ -12,7 +12,6 @@ Also, I'm a proud mom of three kittens hehe
 Love music, fantasy books, and games!
 
 ![Kiutty's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarissaKiutty&show_icons=true&theme=dracula)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaKiutty)](https://github.com/LarissaKiutty/github-readme-stats)-->
 
 ## Technologies
 <div style="display: inline_block"><br>
@@ -22,6 +21,9 @@ Love music, fantasy books, and games!
   <img align="center" alt="kiutty-Java" height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   
 </div>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaKiutty&layout=compact)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LarissaKiutty/LarissaKiutty/output/github-contribution-grid-snake-dark.svg">
