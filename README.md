@@ -7,8 +7,8 @@
 
 ## Hey! How's it going?
 
-My name is Larissa. I'm a beginner in programming with the goal of becoming a fullstack developer.
-Also, I'm a proud mom of three kittens hehe 
+My name is Larissa. I'm a beginner in programming with the goal of becoming a fullstack developer. <br>
+Also, I'm a proud mom of three kittens <br>
 Love music, fantasy books, and games!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LarissaKiutty&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
