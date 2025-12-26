@@ -23,8 +23,6 @@ Love music, fantasy books, and games!
 </div>
 <br>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LarissaKiutty&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LarissaKiutty/LarissaKiutty/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LarissaKiutty/LarissaKiutty/output/github-contribution-grid-snake-dark.svg">
